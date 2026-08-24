@@ -77,7 +77,7 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 - [ ] AWS Automation (boto3)
 - [x] APIs with FastAPI
 - [x] AI Agents for DevOps
-- [ ] Capstone
+- [x] Capstone
 
 ---
 
