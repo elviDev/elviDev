@@ -74,7 +74,7 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 - [x] File Handling and Logs
 - [x] Object-Oriented Python
 - [x] CLI Tools (argparse)
-- [ ] AWS Automation (boto3)
+- [x] AWS Automation (boto3)
 - [x] APIs with FastAPI
 - [x] AI Agents for DevOps
 - [x] Capstone
