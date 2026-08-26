@@ -8,7 +8,7 @@ Application Support Engineer | Python & FastAPI | Cloud & AI Engineering
   I build and support production-focused web applications, APIs, automation tools, and AI-powered backend systems.
   Previously at ProvidusBank, where I worked across application development, API integration,
   UI development, production support, and technical troubleshooting in a financial technology environment.
-  Currently focused on Python, cloud engineering, DevOps, and AI engineering...
+  Currently focused on Python, cloud engineering, DevOps, and AI engineering.
 </p>
 
 ---
