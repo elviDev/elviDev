@@ -155,7 +155,7 @@ Previously an Application Engineer / UI Developer at ProvidusBank, working acros
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=github-light&hide_border=true&radius=16"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=elviDev&theme=github-compact&hide_border=true&radius=16"
     width="100%"
     alt="Elvis's Contribution Graph"
   />
