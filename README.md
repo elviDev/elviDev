@@ -154,7 +154,7 @@ Previously an Application Engineer / UI Developer at ProvidusBank, working acros
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/elviDev/elviDev/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Elvis's Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/elviDev/elviDev/growing-snake-output/growing-snake.gif" width="100%" alt="Elvis's Growing Contribution Snake" />
 </p>
 
 ## 📫 Reach Me
