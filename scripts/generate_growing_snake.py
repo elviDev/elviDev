@@ -228,6 +228,10 @@ def main():
     else:
         weeks = fetch_contribution_weeks(args.user, args.token)
 
+    out_dir = os.path.dirname(args.out)
+    if out_dir:
+        os.makedirs(out_dir, exist_ok=True)
+
     n_frames, size = render_gif(weeks, args.out, fps=args.fps, max_frames=args.max_frames)
     print(f"Wrote {args.out} ({n_frames} frames, {size[0]}x{size[1]}px)")
 
