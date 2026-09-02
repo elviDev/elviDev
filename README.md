@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Elvis Okeke</h1>
 
 <h3 align="center">
-Application Support Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
+Application Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
 </h3>
 
 <p align="center">
