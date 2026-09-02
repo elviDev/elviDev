@@ -119,6 +119,8 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=61DAFB" />
+
 </p>
 
 ---
