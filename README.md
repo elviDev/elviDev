@@ -56,7 +56,7 @@ The system processes PDF and DOCX documents, extracts and chunks text, generates
 
 **Tech stack:**
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pgvector`
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `pgvector` `MySQL`
 `Sentence Transformers` `OpenAI` `Docker` `pytest` `Bash`
 
 ---
@@ -106,6 +106,8 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
 
