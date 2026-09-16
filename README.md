@@ -16,6 +16,7 @@ Application Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
 ## 🚀 What I'm Building
 
 - 🤖 Building AI-powered backend applications with Python, FastAPI, embeddings, vector databases, and RAG
+- 📡 Building full-stack monitoring and observability tools with real-time incident detection and AI-generated explanations
 - 🧠 Working with semantic search, Sentence Transformers, pgvector, and LLM-powered document systems
 - ☁️ Developing cloud and DevOps skills with AWS, Docker, Linux, and automation
 - 🛠️ Building production-style APIs with PostgreSQL, SQLAlchemy, REST APIs, and automated testing
@@ -26,6 +27,48 @@ Application Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
 ---
 
 ## 🧠 Featured Project
+
+
+### Portfolio Site with AI Assistant
+
+<a href="https://elvidev.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-26bd3a?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<a href="https://github.com/elviDev/portfolio-site">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+Personal portfolio with a built-in AI assistant scoped to only answer questions about my background and work, an embedded booking calendar, and a project request form for potential clients.
+
+**Tech stack:**
+
+`Next.js` `TypeScript` `Tailwind CSS` `Google Gemini` (serverless, no separate backend)
+
+### OpsPilot
+
+<a href="https://opspilot-delta.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-26bd3a?style=for-the-badge&logo=vercel&logoColor=black" />
+</a>
+<a href="https://github.com/elviDev/opspilot">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+AI-powered monitoring dashboard that tracks service uptime, detects incidents automatically, and uses AI to explain what broke in plain language, in the user's preferred language.
+
+**Built features:**
+
+- 🩺 Real-time health checks against any list of services
+- 📊 Live uptime and response time tracking
+- 🚨 Automatic incident detection after repeated failures
+- 🤖 AI-generated incident summaries (what broke, why, what to check next)
+- 🌍 Multi-language AI explanations and chat
+- 💬 AI chat assistant that answers questions from real incident history
+- 🔔 Slack alerting on incidents
+- 🖥️ Real-time dashboard built with Next.js and Tailwind
+
+**Tech stack:**
+
+`Next.js` `React` `FastAPI` `PostgreSQL` `SQLAlchemy` `Google Gemini` `APScheduler` `Docker`
 
 ### AI Document Intelligence API
 
@@ -89,6 +132,12 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
@@ -97,11 +146,15 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Sentence%20Transformers-000000?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
