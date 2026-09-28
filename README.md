@@ -28,6 +28,29 @@ Software Engineer | IT Support Engineer | Data Engineer | Python & FastAPI | Clo
 
 ## 🧠 Featured Project
 
+### Claims Pipeline
+
+<a href="https://github.com/elviDev/claims-pipeline">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+End-to-end insurance claims data pipeline covering the full path from raw data to a servable model, built to mirror how a real data engineering team would structure the work.
+
+**Built features:**
+
+- 🧪 Synthetic insurance claims data generation
+- 🥉🥈🥇 PySpark bronze, silver, and gold layer architecture
+- ✅ Data quality checks between layers
+- 🤖 Fraud-risk model tracked and versioned with MLflow
+- 🧠 LLM-based extraction from unstructured claim descriptions
+- 🚀 FastAPI scoring service for real-time predictions
+- 🐳 Dockerized for consistent local and deployed environments
+- 🔁 CI/CD pipeline for automated build and test
+
+**Tech stack:**
+
+`Python` `PySpark` `MLflow` `FastAPI` `Docker` `CI/CD` `Databricks`
+
 
 ### Portfolio Site with AI Assistant
 
