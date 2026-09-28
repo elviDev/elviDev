@@ -1,29 +1,29 @@
 <h1 align="center">Hi 👋, I'm Ifeanyi Elvis Okeke</h1>
 
 <h3 align="center">
-Software Engineer | IT Support Engineer | Data Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
+Data Engineer | Software Engineer | Python & FastAPI | Cloud, DevOps & AI Engineering
 </h3>
 
 <p align="center">
-  I build and support production-focused web applications, APIs, automation tools, and AI-powered backend systems.
+  I build data pipelines, production-focused web applications, APIs, and AI-powered backend systems.
   Previously at ProvidusBank, where I worked across application development, API integration,
   UI development, production support, and technical troubleshooting in a financial technology environment.
-  Currently focused on Python, cloud engineering, DevOps, and AI engineering.
+  Currently focused on data engineering, Python, cloud engineering, and AI engineering.
 </p>
 
 ---
 
 ## 🚀 What I'm Building
 
+- 🥉🥈🥇 Building end-to-end data pipelines with PySpark, layered data architecture, and data quality checks
 - 🤖 Building AI-powered backend applications with Python, FastAPI, embeddings, vector databases, and RAG
 - 📡 Building full-stack monitoring and observability tools with real-time incident detection and AI-generated explanations
 - 🧠 Working with semantic search, Sentence Transformers, pgvector, and LLM-powered document systems
 - ☁️ Developing cloud and DevOps skills with AWS, Docker, Linux, and automation
 - 🛠️ Building production-style APIs with PostgreSQL, SQLAlchemy, REST APIs, and automated testing
 - 🧪 Writing and maintaining automated tests with pytest
-- 👀 Open to Software Engineer, Application Engineer, Junior DevOps, Cloud Engineer, and Technical Support roles
-- 💬 Ask me about Python, FastAPI, REST APIs, PostgreSQL, Docker, semantic search, or automation
-
+- 👀 Open to Data Engineer, Software Engineer, Application Engineer, Cloud Engineer, and Technical Support roles
+- 💬 Ask me about Python, PySpark, FastAPI, REST APIs, PostgreSQL, Docker, semantic search, or automation
 ---
 
 ## 🧠 Featured Project
@@ -196,6 +196,10 @@ with hands-on automation, cloud tooling, APIs, and AI engineering workflows.
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=61DAFB" />
+
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
 
 </p>
 
