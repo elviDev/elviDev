@@ -22,7 +22,7 @@ Technical Services Engineer II | Data Engineer | Software Engineer | Python & Fa
 - ☁️ Developing cloud and DevOps skills with AWS, Docker, Linux, and automation
 - 🛠️ Building production-style APIs with PostgreSQL, SQLAlchemy, REST APIs, and automated testing
 - 🧪 Writing and maintaining automated tests with pytest
-- 👀 Open to Data Engineer, Software Engineer, Application Engineer, Cloud Engineer, and Technical Support roles
+- 👀 Open to Data Engineer, Software Engineer, Cloud Engineer, and Technical Support roles
 - 💬 Ask me about Python, PySpark, FastAPI, REST APIs, PostgreSQL, Docker, semantic search, or automation
 ---
 
